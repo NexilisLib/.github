@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/NexilisLib">
-    <img src="logo.svg" width="80" height="80" alt="Nexilis logo">
+    <img src="https://raw.githubusercontent.com/NexilisLib/.github/main/profile/svg/logo.svg" width="400" height="400" alt="Nexilis logo">
   </a>
 </p>
 
